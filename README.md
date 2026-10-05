@@ -29,6 +29,9 @@ I'm not trying to pretend I know everything. I'm just building, breaking stuff, 
 ![Java](https://img.shields.io/badge/Java-0B1D3A?style=for-the-badge&logo=openjdk&logoColor=4A7FB5)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-0B1D3A?style=for-the-badge&logo=springboot&logoColor=4A7FB5)
 ![Python](https://img.shields.io/badge/Python-0B1D3A?style=for-the-badge&logo=python&logoColor=4A7FB5)
+![Node.js](https://img.shields.io/badge/Node.js-0B1D3A?style=for-the-badge&logo=nodedotjs&logoColor=4A7FB5)
+![Supabase](https://img.shields.io/badge/Supabase-0B1D3A?style=for-the-badge&logo=supabase&logoColor=4A7FB5)
+![Vercel](https://img.shields.io/badge/Vercel-0B1D3A?style=for-the-badge&logo=vercel&logoColor=4A7FB5)
 ![Figma](https://img.shields.io/badge/Figma-0B1D3A?style=for-the-badge&logo=figma&logoColor=4A7FB5)
 ![Git](https://img.shields.io/badge/Git-0B1D3A?style=for-the-badge&logo=git&logoColor=4A7FB5)
 ![GitHub](https://img.shields.io/badge/GitHub-0B1D3A?style=for-the-badge&logo=github&logoColor=4A7FB5)
@@ -57,6 +60,7 @@ I'm not trying to pretend I know everything. I'm just building, breaking stuff, 
 
 - Finishing my websites for **Integrative Programming and Technologies** and **Systems Integration and Architecture**
 - Getting more comfortable with React JS
+- Building an attendance management web app with Node.js and Supabase
 - Teaching myself TypeScript before it shows up in class. I'm planning a first project with it
 - Planning my capstone
 
