@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1D3A,100:4A7FB5&height=220&section=header&text=Zane%20Castrence&fontSize=52&fontColor=E8E4DA&fontAlignY=40&desc=Sworn%20to%20the%20craft%20of%20interfaces.%20Ever%20upward.&descSize=18&descColor=E8E4DA&descAlignY=62&animation=fadeIn" width="100%" alt="Zane Castrence banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=22&duration=3500&pause=1200&color=4A7FB5&center=true&vCenter=true&width=600&height=40&lines=loading+Zane;designer+found;react+js+online;still+learning" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=22&duration=3500&pause=1200&color=4A7FB5&center=true&vCenter=true&width=600&height=40&lines=squire+of+the+craft;sworn+to+react+js;keeper+of+interfaces;ever+learning%2C+ever+building" alt="Typing animation" />
 
 </div>
 
