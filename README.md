@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1D3A,100:4A7FB5&height=220&section=header&text=Zane%20Castrence&fontSize=52&fontColor=E8E4DA&fontAlignY=40&desc=Making%20things%20look%20good%20and%20work%20too.&descSize=18&descColor=E8E4DA&descAlignY=62" width="100%" alt="Zane Castrence banner" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1D3A,100:4A7FB5&height=220&section=header&text=Zane%20Castrence&fontSize=52&fontColor=E8E4DA&fontAlignY=40&desc=Making%20things%20look%20good%20and%20work%20too.&descSize=18&descColor=E8E4DA&descAlignY=62&animation=fadeIn" width="100%" alt="Zane Castrence banner" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=22&duration=3500&pause=1200&color=4A7FB5&center=true&vCenter=true&width=600&lines=IT+student+who+loves+design.;React+JS+is+my+main+thing+right+now.;UI%2FUX+%2B+branding+nerd.;Still+learning%2C+still+building." alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=22&duration=3500&pause=1200&color=4A7FB5&center=true&vCenter=true&width=600&  lines=%3E+loading+zane...;%3E+designer+found;%3E+react+js+online;%3E+still+learning" alt="Typing animation" />
 </a>
 
 </div>
 
----
+<div align="center">✦ ✦ ✦</div>
 
-## 👋 Hey, I'm Zane
+## I · Hey, I'm Zane
 
 I'm a 3rd-year IT student who likes making things that look good *and* actually work. I'm into **UI/UX design**, **branding**, and building front-ends with **React JS**.
 
@@ -20,14 +20,14 @@ I'm not trying to pretend I know everything. I'm just building, breaking stuff, 
 - 🎨 **Design side:** UI/UX and branding
 - ☕ **Also work with:** Java and some Python
 
----
+<div align="center">✦ ✦ ✦</div>
 
-## 🛠️ Stack
+## II · Stack
 
 <div align="center">
 
 ![React](https://img.shields.io/badge/React_JS-0B1D3A?style=for-the-badge&logo=react&logoColor=4A7FB5)
-![Ant Design](https://img.shields.io/badge/Ant_Design-0B1D3A?style=for-the-badge&logo=antdesign&logoColor=4A7FB5)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0B1D3A?style=for-the-badge&logo=tailwindcss&logoColor=4A7FB5)
 ![Java](https://img.shields.io/badge/Java-0B1D3A?style=for-the-badge&logo=openjdk&logoColor=4A7FB5)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-0B1D3A?style=for-the-badge&logo=springboot&logoColor=4A7FB5)
 ![Python](https://img.shields.io/badge/Python-0B1D3A?style=for-the-badge&logo=python&logoColor=4A7FB5)
@@ -37,40 +37,38 @@ I'm not trying to pretend I know everything. I'm just building, breaking stuff, 
 
 </div>
 
----
+<div align="center">✦ ✦ ✦</div>
 
-## ✅ Finished Projects
-
-<!-- Replace REPO_NAME_1 and REPO_NAME_2 with your actual repository names. -->
+## III · Finished Projects
 
 <div align="center">
 
-[![Movie catalog](https://github-readme-stats.vercel.app/api/pin/?username=zane-castrence&repo=REPO_NAME_1&theme=dark&bg_color=0B1D3A&title_color=4A7FB5&text_color=E8E4DA&icon_color=4A7FB5&border_color=4A7FB5)](https://github.com/zane-castrence/REPO_NAME_1)
 [![React + Ant Design site](https://github-readme-stats.vercel.app/api/pin/?username=zane-castrence&repo=REPO_NAME_2&theme=dark&bg_color=0B1D3A&title_color=4A7FB5&text_color=E8E4DA&icon_color=4A7FB5&border_color=4A7FB5)](https://github.com/zane-castrence/REPO_NAME_2)
 
 </div>
 
-- 🎬 **Movie catalog:** a full CRUD website built with Java and Spring Boot
-- ⚛️ **React JS + Ant Design website:** a data-driven site built with React and Ant Design
+- ⚛️ **React JS website:** (one line about what it does, plus Tailwind if you used it)
 - ✈️ **Aire:** a full brand identity with UI/UX designs. It's my own brand now, and it's the look you'll see across my profiles
+- 🧪 **Practice projects:** a CRUD movie catalog built with Java and Spring Boot, plus other school labs
 
----
+<div align="center">✦ ✦ ✦</div>
 
-## 🚧 Currently
+## IV · Currently
 
 - Finishing my websites for **Integrative Programming and Technologies** and **Systems Integration and Architecture**
+- - Teaching myself TypeScript before it shows up in class. I'm planning a first project with it
 - Getting more comfortable with React JS
 - Planning my capstone
 
----
+<div align="center">✦ ✦ ✦</div>
 
-## 🌱 Someday
+## V · Someday
 
-I want to build creative projects around my hobbies and interests. I don't have the time right now, but they're on the list, and when I finally get to them they'll show up here.
+I'm into Formula 1 and music, and I want to build things around both, especially recommendation systems and algorithms. Python is probably where that starts. I don't have the time yet, but it's on the list.
 
----
+<div align="center">✦ ✦ ✦</div>
 
-## 📊 GitHub Stats
+## VI · GitHub Stats
 
 <div align="center">
 
@@ -78,9 +76,9 @@ I want to build creative projects around my hobbies and interests. I don't have 
 
 </div>
 
----
+<div align="center">✦ ✦ ✦</div>
 
-## 📫 Let's Connect
+## VII · Let's Connect
 
 <div align="center">
 
@@ -91,6 +89,6 @@ I want to build creative projects around my hobbies and interests. I don't have 
 
 *Thanks for stopping by!*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A7FB5,100:0B1D3A&height=100&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4A7FB5,100:0B1D3A&height=100&section=footer&animation=fadeIn" width="100%" alt="footer" />
 
 </div>
