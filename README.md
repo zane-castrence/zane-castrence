@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1D3A,100:4A7FB5&height=220&section=header&text=Zane%20Castrence&fontSize=52&fontColor=E8E4DA&fontAlignY=40&desc=Making%20things%20look%20good%20and%20work%20too.&descSize=18&descColor=E8E4DA&descAlignY=62&animation=fadeIn" width="100%" alt="Zane Castrence banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1D3A,100:4A7FB5&height=220&section=header&text=Zane%20Castrence&fontSize=52&fontColor=E8E4DA&fontAlignY=40&desc=Making%20things%20look%20good%20and%20work%20too.&descSize=18&descColor=E8E4DA&descAlignY=62&animation=fadeIn" width="100%" alt="Zane Castrence banner" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=22&duration=3500&pause=1200&color=4A7FB5&center=true&vCenter=true&width=600&  lines=%3E+loading+zane...;%3E+designer+found;%3E+react+js+online;%3E+still+learning" alt="Typing animation" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=22&duration=3500&pause=1200&color=4A7FB5&center=true&vCenter=true&width=600&height=40&lines=loading+Zane;designer+found;react+js+online;still+learning" alt="Typing animation" />
 
 </div>
 
@@ -41,13 +39,15 @@ I'm not trying to pretend I know everything. I'm just building, breaking stuff, 
 
 ## III · Finished Projects
 
+<!-- Replace REPO_NAME with your actual React website repo name. -->
+
 <div align="center">
 
-[![React + Ant Design site](https://github-readme-stats.vercel.app/api/pin/?username=zane-castrence&repo=REPO_NAME_2&theme=dark&bg_color=0B1D3A&title_color=4A7FB5&text_color=E8E4DA&icon_color=4A7FB5&border_color=4A7FB5)](https://github.com/zane-castrence/REPO_NAME_2)
+[![React JS website](https://github-readme-stats.vercel.app/api/pin/?username=zane-castrence&repo=REPO_NAME&theme=dark&bg_color=0B1D3A&title_color=4A7FB5&text_color=E8E4DA&icon_color=4A7FB5&border_color=4A7FB5)](https://github.com/zane-castrence/REPO_NAME)
 
 </div>
 
-- ⚛️ **React JS website:** (one line about what it does, plus Tailwind if you used it)
+- ⚛️ **React JS website:** a data display site built with React JS
 - ✈️ **Aire:** a full brand identity with UI/UX designs. It's my own brand now, and it's the look you'll see across my profiles
 - 🧪 **Practice projects:** a CRUD movie catalog built with Java and Spring Boot, plus other school labs
 
@@ -56,8 +56,8 @@ I'm not trying to pretend I know everything. I'm just building, breaking stuff, 
 ## IV · Currently
 
 - Finishing my websites for **Integrative Programming and Technologies** and **Systems Integration and Architecture**
-- - Teaching myself TypeScript before it shows up in class. I'm planning a first project with it
 - Getting more comfortable with React JS
+- Teaching myself TypeScript before it shows up in class. I'm planning a first project with it
 - Planning my capstone
 
 <div align="center">✦ ✦ ✦</div>
@@ -89,6 +89,6 @@ I'm into Formula 1 and music, and I want to build things around both, especially
 
 *Thanks for stopping by!*
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4A7FB5,100:0B1D3A&height=100&section=footer&animation=fadeIn" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A7FB5,100:0B1D3A&height=100&section=footer" width="100%" alt="footer" />
 
 </div>
